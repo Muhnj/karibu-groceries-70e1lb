@@ -1,0 +1,8 @@
+{
+  "name": "karibu_groceries",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "0bba1d5d"
+}
